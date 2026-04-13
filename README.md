@@ -21,7 +21,7 @@
 4. [Installation Guide] 
 5. [Setting Up the Voice Greeting] 
 6. [Running the Application] 
-7. [How to Use the Chatbot] 
+7. [How to Use the Chatbot]
 8. [Commands Reference] 
 9. [Cybersecurity Topics Covered] 
 10. [Project Structure] 
@@ -93,4 +93,7 @@ The **Cybersecurity Awareness Bot** is an interactive console-based chatbot desi
 | **Speakers** | Required for voice greeting |
 | **Visual Studio** | 2022 or 2026 (recommended) |
 
- 
+ GitHub_Actions_CI_Success
+
+ <img width="1348" height="555" alt="GitHub_Actions_CI_Success" src="https://github.com/user-attachments/assets/19caa72d-5b3b-4995-bd68-4d2a15b30302" />
+
