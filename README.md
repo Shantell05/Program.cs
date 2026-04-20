@@ -1,7 +1,7 @@
 # Program.cs
-# 🛡️ CYBERSECURITY AWARENESS BOT
+#  CYBERSECURITY AWARENESS BOT
 
-## 📋 MODULE INFORMATION
+##  MODULE INFORMATION
  
 | **Module Name** | Programming 2A |
 | **Module Code** | PROG6221/W |
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. [Project Overview] 
 2. [Features Implemented] 
@@ -32,55 +32,55 @@
 
 ---
 
-## 🎯 PROJECT OVERVIEW
+##  PROJECT OVERVIEW
 
 The **Cybersecurity Awareness Bot** is an interactive console-based chatbot designed to educate users about cybersecurity best practices. The bot provides real-time information and tips on:
 
-- ✅ Creating and managing strong passwords
-- ✅ Identifying and avoiding phishing emails
-- ✅ Safe browsing habits and HTTPS security
-- ✅ Two-Factor Authentication (2FA/MFA)
-- ✅ Malware protection and antivirus software
-- ✅ VPN usage and online privacy
-- ✅ Social engineering awareness
-- ✅ Data privacy protection
+-  Creating and managing strong passwords
+- Identifying and avoiding phishing emails
+-  Safe browsing habits and HTTPS security
+-  Two-Factor Authentication (2FA/MFA)
+-  Malware protection and antivirus software
+- VPN usage and online privacy
+-  Social engineering awareness
+-  Data privacy protection
 
 ### What Makes This Bot Special?
 
 | Feature | Description |
 |---------|-------------|
-| 🎤 **Voice Greeting** | Plays a recorded greeting on startup |
-| 🎨 **ASCII Art Logo** | Professional cybersecurity-themed logo |
-| 💬 **Personalised Conversations** | Asks for and uses your name throughout |
-| 🎨 **Colour-Coded UI** | Easy-to-read coloured text and borders |
-| ⚡ **Typing Effect** | Simulates natural conversation |
-| 📊 **Session Tracking** | Tracks questions and session duration |
-| 🛡️ **50+ Responses** | Comprehensive cybersecurity knowledge base |
+|  **Voice Greeting** | Plays a recorded greeting on startup |
+|  **ASCII Art Logo** | Professional cybersecurity-themed logo |
+|  **Personalised Conversations** | Asks for and uses your name throughout |
+|  **Colour-Coded UI** | Easy-to-read coloured text and borders |
+| **Typing Effect** | Simulates natural conversation |
+| **Session Tracking** | Tracks questions and session duration |
+|  **50+ Responses** | Comprehensive cybersecurity knowledge base |
 
 ---
 
-## ✨ FEATURES IMPLEMENTED
+##  FEATURES IMPLEMENTED
 
 ### Part 1: Core Requirements  
 
 | # | Requirement | Status | Evidence |
 |---|-------------|--------|----------|
-| 1 | **Voice Greeting** | ✅ Complete | `greeting.wav` plays on startup |
-| 2 | **ASCII Image Display** | ✅ Complete | Cybersecurity logo displayed |
-| 3 | **Text Greeting After ASCII & Audio** | ✅ Complete | Personalised welcome message |
-| 4 | **User Name Input** | ✅ Complete | Asks for and validates name |
-| 5 | **Personalised Responses** | ✅ Complete | Uses name throughout conversation |
-| 6 | **Input Validation** | ✅ Complete | Handles empty, invalid, long inputs |
-| 7 | **Basic Response System** | ✅ Complete | 50+ cybersecurity responses |
-| 8 | **Enhanced Console UI** | ✅ Complete | Colours, borders, typing effect |
-| 9 | **Automatic Properties** | ✅ Complete | Used in `UserSession` class |
-| 10 | **String Manipulation** | ✅ Complete | `ToLower()`, `Contains()`, `Trim()` |
-| 11 | **Multiple Classes** | ✅ Complete | 6 separate class files |
-| 12 | **GitHub Version Control** | ✅ Complete | 7+ meaningful commits |
+| 1 | **Voice Greeting** |  Complete | `greeting.wav` plays on startup |
+| 2 | **ASCII Image Display** | Complete | Cybersecurity logo displayed |
+| 3 | **Text Greeting After ASCII & Audio** | Complete | Personalised welcome message |
+| 4 | **User Name Input** |  Complete | Asks for and validates name |
+| 5 | **Personalised Responses** |  Complete | Uses name throughout conversation |
+| 6 | **Input Validation** |  Complete | Handles empty, invalid, long inputs |
+| 7 | **Basic Response System** | Complete | 50+ cybersecurity responses |
+| 8 | **Enhanced Console UI** |  Complete | Colours, borders, typing effect |
+| 9 | **Automatic Properties** |  Complete | Used in `UserSession` class |
+| 10 | **String Manipulation** | Complete | `ToLower()`, `Contains()`, `Trim()` |
+| 11 | **Multiple Classes** |  Complete |  6 separate class files |
+| 12 | **GitHub Version Control** |  Complete | 7+ meaningful commits |
 
 ---
 
-## 💻 SYSTEM REQUIREMENTS
+##  SYSTEM REQUIREMENTS
 
 ### Minimum Requirements
 
