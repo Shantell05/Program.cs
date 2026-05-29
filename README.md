@@ -154,7 +154,6 @@ The **Cybersecurity Awareness Bot - Part 2** is a **WPF GUI application** that e
 ### Part 2 Requirements 
 
 | # | Requirement | Evidence |
-|---|-------------|--------|----------|
 | 1 | **GUI Design** | Professional WPF interface |
 | 2 | **Voice Greeting** | `greeting.wav` plays on startup |
 | 3 | **ASCII Art in GUI** | Same as Part 1 |
@@ -171,7 +170,6 @@ The **Cybersecurity Awareness Bot - Part 2** is a **WPF GUI application** that e
 ### Minimum Requirements
 
 | Component | Requirement |
-|-----------|-------------|
 | **Operating System** | Windows 10/11 |
 | **.NET Runtime** | .NET 10.0  |
 | **RAM** | 2GB minimum |
